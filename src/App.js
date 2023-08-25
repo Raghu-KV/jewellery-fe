@@ -10,7 +10,6 @@ import { DataProvider } from "./Context";
 import UserNavBar from "./components/UserNavBar";
 import UserPage from "./components/UserPage";
 
-import BorrowdeBooksLibraryan from "./pages/BorrowedBooksLibraryan";
 import Cart from "./pages/Cart";
 import Order from "./pages/Order";
 
