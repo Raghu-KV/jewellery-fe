@@ -201,7 +201,7 @@ function EditForm() {
             className="mt-3 mb-12 w-72 p-2 md:w-96 bg-sky-500 h-12 rounded-lg hover:scale-105 transition-all text-slate-900 font-bold text-lg"
             type="submit"
           >
-            Post Changes
+            Post Changess
           </button>
         </form>
       </div>
